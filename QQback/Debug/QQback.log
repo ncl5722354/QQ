@@ -1,0 +1,22 @@
+﻿生成启动时间为 2021/4/27 17:32:30。
+     1>项目“E:\程序\C++\QQ\C++后台\QQback\QQback\QQback.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SQL.cpp SQLEx.cpp main.cpp
+         main.cpp
+     1>e:\程序\c++\qq\c++后台\qqback\qqback\connector c++ 8.0\include\jdbc\cppconn\exception.h(91): error C3646: “noexcept”: 未知重写说明符
+     1>e:\程序\c++\qq\c++后台\qqback\qqback\connector c++ 8.0\include\jdbc\cppconn\exception.h(94): error C3646: “noexcept”: 未知重写说明符
+     1>e:\程序\c++\qq\c++后台\qqback\qqback\connector c++ 8.0\include\jdbc\cppconn\exception.h(139): error C3646: “noexcept”: 未知重写说明符
+         SQLEx.cpp
+     1>e:\程序\c++\qq\c++后台\qqback\qqback\connector c++ 8.0\include\jdbc\cppconn\exception.h(91): error C3646: “noexcept”: 未知重写说明符
+     1>e:\程序\c++\qq\c++后台\qqback\qqback\connector c++ 8.0\include\jdbc\cppconn\exception.h(94): error C3646: “noexcept”: 未知重写说明符
+     1>e:\程序\c++\qq\c++后台\qqback\qqback\connector c++ 8.0\include\jdbc\cppconn\exception.h(139): error C3646: “noexcept”: 未知重写说明符
+         SQL.cpp
+     1>e:\程序\c++\qq\c++后台\qqback\qqback\connector c++ 8.0\include\jdbc\cppconn\exception.h(91): error C3646: “noexcept”: 未知重写说明符
+     1>e:\程序\c++\qq\c++后台\qqback\qqback\connector c++ 8.0\include\jdbc\cppconn\exception.h(94): error C3646: “noexcept”: 未知重写说明符
+     1>e:\程序\c++\qq\c++后台\qqback\qqback\connector c++ 8.0\include\jdbc\cppconn\exception.h(139): error C3646: “noexcept”: 未知重写说明符
+         正在生成代码...
+     1>已完成生成项目“E:\程序\C++\QQ\C++后台\QQback\QQback\QQback.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.86
